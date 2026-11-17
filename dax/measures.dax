@@ -1,0 +1,23 @@
+// Example DAX measures for the land cover dashboard
+
+Total Area (ha) =
+SUM ( 'LandCover'[area_ha] )
+
+Built-Up Area (ha) =
+CALCULATE (
+    [Total Area (ha)],
+    'LandCover'[class] = "Built-up"
+)
+
+Built-Up Share % =
+DIVIDE ( [Built-Up Area (ha)], [Total Area (ha)] )
+
+YoY Built-Up Growth % =
+VAR CurrentYear = MAX ( 'Date'[Year] )
+VAR Prev = CALCULATE ( [Built-Up Area (ha)], 'Date'[Year] = CurrentYear - 1 )
+RETURN DIVIDE ( [Built-Up Area (ha)] - Prev, Prev )
+
+Land Cover Change (ha) =
+VAR CurrentYear = MAX ( 'Date'[Year] )
+VAR Prev = CALCULATE ( [Total Area (ha)], 'Date'[Year] = CurrentYear - 1 )
+RETURN [Total Area (ha)] - Prev
