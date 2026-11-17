@@ -1,0 +1,6 @@
+
+.pytest_cache/
+*.db
+submission.csv
+reports/*.csv
+index/

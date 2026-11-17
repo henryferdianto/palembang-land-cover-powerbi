@@ -1,5 +1,7 @@
 # Palembang Land Cover & Spatial Change Analytics Dashboard
 
+![ci](https://github.com/henryferdianto/palembang-land-cover-powerbi/actions/workflows/ci.yml/badge.svg)
+
 > **DATERAQUEST 1.0 — multi-temporal land cover and urban expansion analysis**
 
 ## Overview
@@ -41,12 +43,31 @@ pip install -r requirements.txt
 3. Recreate the measures from `dax/measures.dax`.
 4. Build the pages described in `docs/dashboard-spec.md`.
 
+
+<!-- completed -->
+
+## Quickstart with Sample Data
+
+The repository ships a synthetic data generator so the full pipeline can be run
+without any private dataset:
+
+```bash
+make sample && python -m src.analyze
+```
+
+## Tests
+
+```bash
+pip install -r requirements.txt
+pytest -q
+```
+
 ## Project Status
 
-This repository contains the project documentation and a runnable implementation
-skeleton. Scripts are structured so that each pipeline stage can be executed and
-extended independently. Update the configuration and data paths to run against
-your own datasets.
+This repository contains the project documentation and a runnable reference
+implementation. A synthetic data generator is included so every pipeline stage
+can be executed end-to-end; replace the sample data with your own datasets in
+`data/raw/` to reproduce real results.
 
 ## License
 

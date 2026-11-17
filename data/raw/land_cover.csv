@@ -1,0 +1,81 @@
+year,region,class,area_ha,lat,lon
+2018,Ilir Barat I,Built-up,152.87,-2.98,104.74
+2018,Ilir Barat I,Vegetation,236.1,-2.98,104.74
+2018,Ilir Barat I,Water body,364.43,-2.98,104.74
+2018,Ilir Barat I,Agriculture,315.14,-2.98,104.74
+2018,Ilir Timur II,Built-up,71.3,-2.97,104.77
+2018,Ilir Timur II,Vegetation,186.66,-2.97,104.77
+2018,Ilir Timur II,Water body,156.07,-2.97,104.77
+2018,Ilir Timur II,Agriculture,159.63,-2.97,104.77
+2018,Sukarami,Built-up,75.37,-2.93,104.75
+2018,Sukarami,Vegetation,118.14,-2.93,104.75
+2018,Sukarami,Water body,106.15,-2.93,104.75
+2018,Sukarami,Agriculture,189.96,-2.93,104.75
+2018,Kemuning,Built-up,137.26,-2.95,104.79
+2018,Kemuning,Vegetation,317.38,-2.95,104.79
+2018,Kemuning,Water body,213.24,-2.95,104.79
+2018,Kemuning,Agriculture,153.89,-2.95,104.79
+2018,Bukit Kecil,Built-up,126.55,-2.99,104.73
+2018,Bukit Kecil,Vegetation,100.52,-2.99,104.73
+2018,Bukit Kecil,Water body,293.84,-2.99,104.73
+2018,Bukit Kecil,Agriculture,244.24,-2.99,104.73
+2020,Ilir Barat I,Built-up,211.36,-2.98,104.74
+2020,Ilir Barat I,Vegetation,207.69,-2.98,104.74
+2020,Ilir Barat I,Water body,393.74,-2.98,104.74
+2020,Ilir Barat I,Agriculture,370.32,-2.98,104.74
+2020,Ilir Timur II,Built-up,214.77,-2.97,104.77
+2020,Ilir Timur II,Vegetation,161.99,-2.97,104.77
+2020,Ilir Timur II,Water body,245.47,-2.97,104.77
+2020,Ilir Timur II,Agriculture,115.71,-2.97,104.77
+2020,Sukarami,Built-up,109.92,-2.93,104.75
+2020,Sukarami,Vegetation,159.6,-2.93,104.75
+2020,Sukarami,Water body,169.29,-2.93,104.75
+2020,Sukarami,Agriculture,204.27,-2.93,104.75
+2020,Kemuning,Built-up,138.74,-2.95,104.79
+2020,Kemuning,Vegetation,139.49,-2.95,104.79
+2020,Kemuning,Water body,159.13,-2.95,104.79
+2020,Kemuning,Agriculture,103.62,-2.95,104.79
+2020,Bukit Kecil,Built-up,105.83,-2.99,104.73
+2020,Bukit Kecil,Vegetation,122.31,-2.99,104.73
+2020,Bukit Kecil,Water body,84.7,-2.99,104.73
+2020,Bukit Kecil,Agriculture,151.66,-2.99,104.73
+2022,Ilir Barat I,Built-up,202.42,-2.98,104.74
+2022,Ilir Barat I,Vegetation,262.26,-2.98,104.74
+2022,Ilir Barat I,Water body,232.47,-2.98,104.74
+2022,Ilir Barat I,Agriculture,145.23,-2.98,104.74
+2022,Ilir Timur II,Built-up,287.77,-2.97,104.77
+2022,Ilir Timur II,Vegetation,363.9,-2.97,104.77
+2022,Ilir Timur II,Water body,230.47,-2.97,104.77
+2022,Ilir Timur II,Agriculture,198.77,-2.97,104.77
+2022,Sukarami,Built-up,255.42,-2.93,104.75
+2022,Sukarami,Vegetation,134.26,-2.93,104.75
+2022,Sukarami,Water body,151.33,-2.93,104.75
+2022,Sukarami,Agriculture,96.69,-2.93,104.75
+2022,Kemuning,Built-up,277.98,-2.95,104.79
+2022,Kemuning,Vegetation,308.3,-2.95,104.79
+2022,Kemuning,Water body,320.75,-2.95,104.79
+2022,Kemuning,Agriculture,344.09,-2.95,104.79
+2022,Bukit Kecil,Built-up,207.13,-2.99,104.73
+2022,Bukit Kecil,Vegetation,207.6,-2.99,104.73
+2022,Bukit Kecil,Water body,108.89,-2.99,104.73
+2022,Bukit Kecil,Agriculture,103.07,-2.99,104.73
+2024,Ilir Barat I,Built-up,308.46,-2.98,104.74
+2024,Ilir Barat I,Vegetation,225.58,-2.98,104.74
+2024,Ilir Barat I,Water body,251.97,-2.98,104.74
+2024,Ilir Barat I,Agriculture,307.99,-2.98,104.74
+2024,Ilir Timur II,Built-up,299.57,-2.97,104.77
+2024,Ilir Timur II,Vegetation,241.54,-2.97,104.77
+2024,Ilir Timur II,Water body,243.07,-2.97,104.77
+2024,Ilir Timur II,Agriculture,173.55,-2.97,104.77
+2024,Sukarami,Built-up,140.14,-2.93,104.75
+2024,Sukarami,Vegetation,98.1,-2.93,104.75
+2024,Sukarami,Water body,69.8,-2.93,104.75
+2024,Sukarami,Agriculture,94.51,-2.93,104.75
+2024,Kemuning,Built-up,357.3,-2.95,104.79
+2024,Kemuning,Vegetation,184.26,-2.95,104.79
+2024,Kemuning,Water body,127.21,-2.95,104.79
+2024,Kemuning,Agriculture,199.67,-2.95,104.79
+2024,Bukit Kecil,Built-up,209.51,-2.99,104.73
+2024,Bukit Kecil,Vegetation,189.56,-2.99,104.73
+2024,Bukit Kecil,Water body,169.58,-2.99,104.73
+2024,Bukit Kecil,Agriculture,212.79,-2.99,104.73
